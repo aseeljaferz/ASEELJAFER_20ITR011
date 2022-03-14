@@ -1,0 +1,66 @@
+.menu
+{
+    border: 2px solid coral;
+    background-color: coral;
+    height:20px;
+    padding-top: 20px;
+}
+
+.logo
+{
+    border: 2px solid rgb(12, 8, 8);
+    background-color: rgb(3, 2, 3);
+    text-align: left;
+    width: 100%;
+}
+
+.search
+{
+    
+    border: 2px solid white;
+    background-color: antiquewhite;
+    padding-right: 50%;
+}
+
+.divide1
+{
+    border: 2px solid black;
+    width:30%;
+    height:500px;
+    float: left;
+    background-color: rgb(204, 236, 236);
+}
+
+.divide2
+{
+    border: 2px solid rgb(218, 233, 152);
+    width:40%;
+    height:500px;
+    float: left;
+    background-color: rgb(218, 233, 152);
+}
+
+.divide3
+{
+    border: 2px solid rgb(12, 12, 10);
+    width: 29%;
+    height:500px;
+    float: left;
+    background-color:rgb(218, 233, 152) ;
+}
+.product
+{
+    border: 2px solid black;
+    padding-bottom: 30%;
+    padding-right: 60%;
+}
+
+.footer
+{
+    position: static;
+    border: 2px solid cornflowerblue;
+    background-color:rgb(66, 23, 219);
+    text-align: center;
+
+    
+}
